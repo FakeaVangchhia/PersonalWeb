@@ -114,8 +114,8 @@ STATICFILES_DIRS = [
 # Email setting
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
-EMAIL_HOST_USER = 'fakafka44@gmail.com'
-EMAIL_HOST_PASSWORD = 'vohmgzrhivieamyv'
+EMAIL_HOST_USER = 'fakeavangchhia@gmail.com'
+EMAIL_HOST_PASSWORD = 'vaccmsoijhfvyywf'
 EMAIL_USE_TLS = True
 EMAIL_USE_SSL = False
 
